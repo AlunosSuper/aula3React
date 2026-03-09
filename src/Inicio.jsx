@@ -1,6 +1,7 @@
 import { Titulo } from "./componentes/Titulo"
 import { Campo } from "./componentes/Campo"
 
+
 export function Inicio() {
   return (
     <>
@@ -11,6 +12,7 @@ export function Inicio() {
 
       <Campo id="2">
       </Campo>
+      
     </>
   )
 }
